@@ -1,0 +1,26 @@
+{
+  "name": "OAuthProject",
+  "version": "10.0",
+  "description": "",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "*",
+    "body-parser": "*",
+    "connect-flash": "*",
+    "connect-mongo": "*",
+    "cookie-parser": "*",
+    "ejs": "*",
+    "express": "*",
+    "express-session": "*",
+    "mongoose": "*",
+    "morgan": "*",
+    "passport": "*",
+    "passport-facebook": "*",
+    "passport-google-oauth": "*",
+    "passport-http-bearer": "*",
+    "passport-local": "*",
+    "rand-token": "*"
+  }
+}
